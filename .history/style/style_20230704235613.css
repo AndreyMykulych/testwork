@@ -1,0 +1,21 @@
+.conteiner{
+    height: 100vh;
+}
+.header-item {
+    color:black;
+    width: fit-content;
+    height: fit-content;
+}
+.header-svg{
+    width: 2rem;
+    height: 2rem;
+    color: grey;
+}
+header {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    justify-content: end;
+}

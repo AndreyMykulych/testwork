@@ -1,0 +1,10 @@
+.conteiner{
+    height: 100vh;
+}
+.header-item {
+    color:black;
+}
+.header-svg{
+    width: 1rem;
+    height: 1rem;
+}
